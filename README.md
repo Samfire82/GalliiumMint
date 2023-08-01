@@ -15,4 +15,12 @@ sudo apt install git
 
 to clone the git repo
 
-sudo git clone  
+sudo git clone https://github.com/Samfire82/GalliiumMint.git
+
+to get to the directory
+
+cd GalliumMint
+
+then 
+
+sudo ./step1.sh
