@@ -24,3 +24,5 @@ cd GalliumMint
 then 
 
 sudo ./step1.sh
+
+it will give an error because the script hasn't been uploaded yet
