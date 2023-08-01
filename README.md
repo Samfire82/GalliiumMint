@@ -15,4 +15,4 @@ sudo apt install git
 
 to clone the git repo
 
-sudo git clone 
+sudo git clone  
